@@ -1,7 +1,7 @@
 # TP 2 - Creation d'une application vue
 
-### LAST NAME : TAHON
-### First name : Valentin
+### LAST NAME : Bach
+### First name : Mathis
 ### TP group : 
 - [ ] TPA41
 - [ ] TPA42
